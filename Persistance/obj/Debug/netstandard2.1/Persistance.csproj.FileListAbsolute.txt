@@ -1,0 +1,12 @@
+D:\CodeProjects\aNET\Persistance\bin\Debug\netstandard2.1\Persistance.deps.json
+D:\CodeProjects\aNET\Persistance\bin\Debug\netstandard2.1\Persistance.dll
+D:\CodeProjects\aNET\Persistance\bin\Debug\netstandard2.1\Persistance.pdb
+D:\CodeProjects\aNET\Persistance\bin\Debug\netstandard2.1\Domain.dll
+D:\CodeProjects\aNET\Persistance\bin\Debug\netstandard2.1\Domain.pdb
+D:\CodeProjects\aNET\Persistance\obj\Debug\netstandard2.1\Persistance.csprojAssemblyReference.cache
+D:\CodeProjects\aNET\Persistance\obj\Debug\netstandard2.1\Persistance.csproj.CoreCompileInputs.cache
+D:\CodeProjects\aNET\Persistance\obj\Debug\netstandard2.1\Persistance.AssemblyInfoInputs.cache
+D:\CodeProjects\aNET\Persistance\obj\Debug\netstandard2.1\Persistance.AssemblyInfo.cs
+D:\CodeProjects\aNET\Persistance\obj\Debug\netstandard2.1\Persistance.csproj.CopyComplete
+D:\CodeProjects\aNET\Persistance\obj\Debug\netstandard2.1\Persistance.dll
+D:\CodeProjects\aNET\Persistance\obj\Debug\netstandard2.1\Persistance.pdb

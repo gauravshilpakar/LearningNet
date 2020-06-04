@@ -1,0 +1,8 @@
+D:\CodeProjects\aNET\Domain\bin\Debug\netstandard2.0\Domain.deps.json
+D:\CodeProjects\aNET\Domain\bin\Debug\netstandard2.0\Domain.dll
+D:\CodeProjects\aNET\Domain\bin\Debug\netstandard2.0\Domain.pdb
+D:\CodeProjects\aNET\Domain\obj\Debug\netstandard2.0\Domain.csprojAssemblyReference.cache
+D:\CodeProjects\aNET\Domain\obj\Debug\netstandard2.0\Domain.AssemblyInfoInputs.cache
+D:\CodeProjects\aNET\Domain\obj\Debug\netstandard2.0\Domain.AssemblyInfo.cs
+D:\CodeProjects\aNET\Domain\obj\Debug\netstandard2.0\Domain.dll
+D:\CodeProjects\aNET\Domain\obj\Debug\netstandard2.0\Domain.pdb

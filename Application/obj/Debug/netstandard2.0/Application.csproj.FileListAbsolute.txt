@@ -1,0 +1,13 @@
+D:\CodeProjects\aNET\Application\bin\Debug\netstandard2.0\Application.deps.json
+D:\CodeProjects\aNET\Application\bin\Debug\netstandard2.0\Application.dll
+D:\CodeProjects\aNET\Application\bin\Debug\netstandard2.0\Application.pdb
+D:\CodeProjects\aNET\Application\bin\Debug\netstandard2.0\Domain.dll
+D:\CodeProjects\aNET\Application\bin\Debug\netstandard2.0\Persistance.dll
+D:\CodeProjects\aNET\Application\bin\Debug\netstandard2.0\Domain.pdb
+D:\CodeProjects\aNET\Application\bin\Debug\netstandard2.0\Persistance.pdb
+D:\CodeProjects\aNET\Application\obj\Debug\netstandard2.0\Application.csprojAssemblyReference.cache
+D:\CodeProjects\aNET\Application\obj\Debug\netstandard2.0\Application.AssemblyInfoInputs.cache
+D:\CodeProjects\aNET\Application\obj\Debug\netstandard2.0\Application.AssemblyInfo.cs
+D:\CodeProjects\aNET\Application\obj\Debug\netstandard2.0\Application.csproj.CopyComplete
+D:\CodeProjects\aNET\Application\obj\Debug\netstandard2.0\Application.dll
+D:\CodeProjects\aNET\Application\obj\Debug\netstandard2.0\Application.pdb
